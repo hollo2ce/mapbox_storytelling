@@ -56,7 +56,7 @@ var config = {
             hidden: false,
             title: 'Someplace Georgia',
             image: './assets/rockingham_county_courthouse (1).jpeg',
-            description: 'Description of the second location.',
+            description: 'in Harrisonburg VA.',
             location: {
                 center: [-83.5573651, 32.5573651], 
                 zoom: 6.5,
