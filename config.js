@@ -24,9 +24,9 @@ var config = {
             id: 'opening',
             alignment: 'centered',
             hidden: false,
-            title: 'The Color Purple',
+            title: 'The Color Purple by Alice Walker',
             image: './assets/color_purple_cover.jpg',
-            description: 'A series of letters between sisters and God',
+            description: 'A story of sisterly love and self discovery',
             location: {
                 center: [-90.3150946, 38.6605671],
                 zoom: 4,
