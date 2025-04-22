@@ -15,9 +15,9 @@ var config = {
     theme: 'light',
     use3dTerrain: false, //set true for enabling 3D maps.
     auto: false,
-    title: 'Color Purple Essay',
-    subtitle: 'Spatial Journeys across the South',
-    byline: 'My Name',
+    title: 'The Color Purple',
+    subtitle: 'Economic Movement across the South',
+    byline: 'Chloe Holloway',
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
         {
