@@ -55,7 +55,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Someplace Georgia',
-            image: './assets/alice_walker_childhood_home.jpg',
+            image: './assets/rockingham_county_courthouse (1).jpeg',
             description: 'Description of the second location.',
             location: {
                 center: [-83.5573651, 32.5573651], 
